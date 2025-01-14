@@ -1,0 +1,2 @@
+# novo
+Scripts para estudo
